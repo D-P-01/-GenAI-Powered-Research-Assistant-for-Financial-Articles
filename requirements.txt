@@ -1,0 +1,7 @@
+langchain
+streamlit
+ollama
+langchain-community
+unstructured python-magic
+faiss-cpu
+sentence-transformers
