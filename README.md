@@ -1,3 +1,13 @@
+### Demo Video
+
+<video width="600" controls>
+  <source src="AI_RESEARCH_ASSISTANT_DEMO_VIDEO.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+
+
 # 🧠 GenAI-Powered Research Assistant for Financial Articles
 
 A cutting-edge **Generative AI** tool that leverages **LLMs** and **Retrieval-Augmented Generation (RAG)** to help **analysts, researchers, and investors** extract meaningful insights from online financial articles in real time.
