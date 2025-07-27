@@ -1,9 +1,3 @@
-### Demo Video
-
-<video width="600" controls>
-  <source src="AI_RESEARCH_ASSISTANT_DEMO_VIDEO.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
 
